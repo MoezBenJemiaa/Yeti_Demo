@@ -1,4 +1,4 @@
-# Yeti
+# Yeti Demo
 
 Welcome to **Yeti**!  
 This repository is maintained by [MoezBenJemiaa](https://github.com/MoezBenJemiaa).
